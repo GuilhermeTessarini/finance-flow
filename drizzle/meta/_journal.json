@@ -8,6 +8,20 @@
       "when": 1719946433162,
       "tag": "0000_overrated_lord_hawal",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1721756174301,
+      "tag": "0001_freezing_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1721756229809,
+      "tag": "0002_redundant_toxin",
+      "breakpoints": true
     }
   ]
 }
