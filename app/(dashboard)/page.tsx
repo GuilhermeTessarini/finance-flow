@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <Button onClick={onOpen}>
-      Ad an account
+      Add an account
     </Button>
   );
 }
