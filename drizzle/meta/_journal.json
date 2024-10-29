@@ -22,6 +22,13 @@
       "when": 1721756229809,
       "tag": "0002_redundant_toxin",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1730224561663,
+      "tag": "0003_windy_enchantress",
+      "breakpoints": true
     }
   ]
 }
