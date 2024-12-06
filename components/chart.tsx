@@ -18,7 +18,7 @@ type Props = {
     data?: {
         date: string;
         income: number;
-        expense: number;
+        expenses: number;
     }[];
 };
 

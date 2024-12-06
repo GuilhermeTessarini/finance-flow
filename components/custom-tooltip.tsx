@@ -7,7 +7,7 @@ export const CustomToolTip = ({ active, payload }: any) => {
 
     const date = payload[0].payload.date;
     const income = payload[0].value;
-    const expense = payload[1].value;
+    const expenses = payload[1].value;
 
     return (
         <div className="rounded-sm bg-white shadow-sm border overflow-hidden">
@@ -35,7 +35,7 @@ export const CustomToolTip = ({ active, payload }: any) => {
                         </p>
                     </div>
                     <p className="text-sm text-right font-medium">
-                        {formatCurrency(expense * - 1)}
+                        {formatCurrency(expenses * - 1)}
                     </p>
                 </div>
             </div>
