@@ -27,7 +27,7 @@ Welcome to the FinanceFlow, an application designed to help you efficiently mana
   - Styled using TailwindCSS and Shadcn UI.  
   - Database powered by PostgreSQL with Drizzle ORM.  
 
-## Deployment  
+### Deployment  
 
 The platform is deployed on **Vercel** for fast and reliable performance.  
 
