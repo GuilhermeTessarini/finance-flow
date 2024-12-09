@@ -1,4 +1,4 @@
-FinanceFlow - EN
+## FinanceFlow - EN
 
 Welcome to the FinanceFlow, an application designed to help you efficiently manage your finances. Track your income and expenses, categorize transactions, assign them to accounts, and even import transactions via CSV files.
 
