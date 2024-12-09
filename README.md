@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+FinanceFlow - EN
 
-## Getting Started
+Welcome to the FinanceFlow, an application designed to help you efficiently manage your finances. Track your income and expenses, categorize transactions, assign them to accounts, and even import transactions via CSV files.
 
-First, run the development server:
+### Features  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Interactive Financial Dashboard**  
+  - Visualize your finances with changeable chart types.  
+  - Filter data by accounts and dates for better insights.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Transaction Management**  
+  - View and edit transactions in a detailed table.  
+  - Add transactions through a customizable form.  
+  - Import bulk transactions from CSV files.  
+  - Toggle between income and expense views.  
+  - Bulk delete and search for specific transactions.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Modern Authentication**  
+  - Authentication powered by Clerk (Core 2).  
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Seamless Development Tools**  
+  - API built with Hono.js.  
+  - State management via Tanstack React Query.  
 
-## Learn More
+- **Technology Stack**  
+  - Built with Next.js 14.  
+  - Styled using TailwindCSS and Shadcn UI.  
+  - Database powered by PostgreSQL with Drizzle ORM.  
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The platform is deployed on **Vercel** for fast and reliable performance.  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Access the live project on Vercel](https://finance-flow-puce.vercel.app/)  
 
-## Deploy on Vercel
+FinanceFlow - PT-BR
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Bem-vindo ao FinanceFlow, um aplicativo desenvolvido para ajudá-lo a gerenciar suas finanças com eficiência. Acompanhe suas receitas e despesas, classifique transações, atribua-as a contas e até importe transações por meio de arquivos CSV.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Funcionalidades  
+
+- **Painel Financeiro Interativo**  
+  - Visualize suas finanças com tipos de gráficos personalizáveis.  
+  - Filtre dados por contas e datas para obter insights detalhados.  
+
+- **Gerenciamento de Transações**  
+  - Visualize e edite transações em uma tabela detalhada.  
+  - Adicione transações por meio de um formulário customizável.  
+  - Importe transações em massa usando arquivos CSV.  
+  - Alterne entre visualizações de receita e despesa.  
+  - Exclua transações em massa e pesquise transações específicas.  
+
+- **Autenticação**  
+  - Autenticação via Clerk (Core 2).  
+
+- **Ferramentas de Desenvolvimento Modernas**  
+  - API construída com Hono.js.  
+  - Gerenciamento de estado com Tanstack React Query.  
+
+- **Tecnologias**  
+  - Construído com Next.js 14.  
+  - Estilizado com TailwindCSS e Shadcn UI.  
+  - Banco de dados com PostgreSQL e Drizzle ORM.  
+
+### Deploy  
+
+A plataforma está implantada na **Vercel** para garantir desempenho rápido e confiável.  
+
+[Acesse o projeto ao vivo na Vercel](https://finance-flow-puce.vercel.app/) 
+
